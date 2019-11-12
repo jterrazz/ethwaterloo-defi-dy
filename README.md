@@ -1,5 +1,16 @@
 # defi-dy
 
+### Main app
+```bash
+yarn start
+```
+
+### 0x app
+```bash
+# Start with
+REACT_APP_RELAYER_URL='https://api.openrelay.xyz/v2/' REACT_APP_NETWORK_ID=3 yarn start
+```
+
 ## They talk about us
 - [In the Defiant](https://thedefiant.substack.com/p/ethereum-hackers-built-key-infrastructure?utm_campaign=post&utm_medium=web&utm_source=copy)
 - [@shanghaipreneur](https://steemleo.com/ethereum/@shanghaipreneur/it-took-just-2-days-to-create-this-potentially-game-changing-derivatives-platform)
