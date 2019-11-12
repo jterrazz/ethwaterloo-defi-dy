@@ -1,4 +1,5 @@
 # defi-dy
+Derivatives of Defi protocols made for the ETHWaterloo hackathon in 36 hours. 
 
 ### Main app
 ```bash
